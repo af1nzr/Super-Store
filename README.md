@@ -4,7 +4,9 @@
 
 This report provides a comprehensive analysis of the Super Store's historical sales and profitability data, alongside a 15-day sales forecast. By examining key performance indicators (KPIs), trends, and breakdowns by category, region, and payment method, we can gain valuable insights into the store's strengths, weaknesses, and potential future performance.
 
-
+<div align="center">
+  <img src="Assets/Dashboard-Demo.gif" alt="Dashboard Demo" width="700"/>
+</div>
 
 ## Image 1: Historical Performance Dashboard
 
